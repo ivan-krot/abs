@@ -6,5 +6,4 @@
 
 ## Conflict line#1
 
-
-## Conflict line#3
+## Conflict resolved
