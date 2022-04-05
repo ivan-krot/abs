@@ -6,4 +6,4 @@
 
 ## Conflict resolved
 
-## Changed file for lesson 2
+## Changed file for lesson 2  test2 
